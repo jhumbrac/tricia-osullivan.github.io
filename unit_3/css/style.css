@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background: url(file:///Users/Tricia/Desktop/General%20Assembly%20Course/tricia-osullivan.github.io/unit_3/images/india.jpg);
+  background: url(../images/india.jpg);
   background-size: cover;
   color: #fff;
   font-family: gotham;
@@ -8,10 +8,15 @@ body {
   font-size: 30px;
 }
 #slogan {
-	font-size: 60px;
+	font-size: 50px;
 	font-weight: bold;
+}
 hr {
   width: 700px;
+}
+ul {
+	max-width: 350px;
+	margin: 0 auto;
 }
 h1{
 	font-size: 80px;
