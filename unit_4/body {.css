@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background: url(../images/india.jpg);
+  background-image: url(".../images/india.jpg");
   background-size: cover;
   color: #fff;
   font-family: Gotham, sans-serif;
@@ -18,6 +18,9 @@ ul {
 	font-family: 'Source Sans Pro', sans-serif;
 	max-width: 350px;
 	margin: 0 auto;
+}
+li {
+	display:inline;
 }
 h1{
 	font-family: 'Happy Monkey', cursive;
