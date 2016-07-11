@@ -1,18 +1,19 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
-  text-align: center;
-  background-image: url(".../images/india.jpg");
-  background-size: cover;
-  color: #fff;
-  font-family: Gotham, sans-serif;
-  font-weight: lighter;
-  font-size: 30px;
+	text-align: center;
+	background-image: url("../images/india.jpg");
+	background-size: cover;
+	color: #fff;
+	font-family: Gotham, sans-serif;
+	font-weight: lighter;
+	font-size: 30px;
 }
 #slogan {
 	font-size: 50px;
 	font-weight: bold;
 }
 hr {
-  width: 700px;
+	width: 700px;
 }
 ul {
 	font-family: 'Source Sans Pro', sans-serif;
@@ -27,8 +28,8 @@ h1{
 	font-size: 80px;
 }
 h2 {
-  font-size: 40px;
-  font-weight: lighter;
+	font-size: 40px;
+	font-weight: lighter;
 }
 p  {
 	font-family: ;
